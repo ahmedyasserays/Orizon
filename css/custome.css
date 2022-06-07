@@ -213,7 +213,12 @@ video#id_video {
 /* //////////////////////////////// end testimonials ////////////////////// */
 
 /* //////////////////////////////// start footer ////////////////////// */
-
+footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
 .footer-logo {
   text-align: center;
 }
